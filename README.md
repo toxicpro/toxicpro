@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toxicpro
 - 👀 I’m interested in PHP, JavaScript, CSS & HTML
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning GitHub LOL
 - 💞️ I'm Electronic Music lover.
 - 📫 I'm don't use e-mail because hate spam.
 
