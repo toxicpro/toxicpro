@@ -8,3 +8,18 @@
 toxicpro/toxicpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+>[!NOTE]
+>Nota especial
+>
+>[!TIP]
+>Consejo
+>
+>[!IMPORTANT]
+>Aviso importante
+>
+>[!WARNING]
+>Advertencia
+>
+>[!CAUTION]
+>Precaución
