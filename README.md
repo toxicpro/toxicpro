@@ -11,15 +11,15 @@ You can click the Preview link to take a look at your changes.
 
 >[!NOTE]
 >Nota especial
->
+
 >[!TIP]
 >Consejo
->
+
 >[!IMPORTANT]
 >Aviso importante
->
+
 >[!WARNING]
 >Advertencia
->
+
 >[!CAUTION]
 >Precaución
